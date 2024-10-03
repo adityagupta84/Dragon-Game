@@ -1,14 +1,18 @@
 # 🐉 Dragon Game
+
 Welcome to Dragon Game, a fun where you control a dino to dodge obstacles and aim for the highest score. 
 As the game progresses, the speed increases, making it harder to avoid collisions!
 
 ## 🌐 Live Demo
+
 Check out the game in action here! (https://adityagupta84.github.io/Dragon_Game/)
 
 ## 🎮 How to Play
 
 Jump by pressing the Up arrow or Space key to avoid ground obstacles.
+
 The game gets faster as you score more points, so stay alert!
+
 If you hit an obstacle, the game ends. You can restart by clicking the Restart button.
 
 ## 🚀 Features
@@ -48,12 +52,3 @@ Your ideas and improvements are always welcome!
 
 Enjoy the game and aim for a high score! 🚀
 
-
-## 📂 Project Structure
-
-📦 Dragon Game
-
-├── 📄 index.html      # Main HTML file
-├── 📄 style.css       # CSS for styling and animations
-├── 📄 main.js         # JavaScript for game logic
-└── 📄 README.md       # You're here!
