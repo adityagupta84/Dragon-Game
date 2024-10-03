@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dragon Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <script src="main.js" defer></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="gameOver">
+            Game Over
+            <button class="restartButton">Restart</button>
+        </div>
+        <div class="dino"></div>
+        <div id="scoreCont">Your Score: 0</div>
+
+        <!-- Score message for multiples of 100 -->
+        <div id="scoreMessage" class="hidden">
+            Congratulations! Your score is <span id="scoreValue"></span>
+        </div>
+
+        <div class="obstacle obstacleAni"></div>
+    </div>
+</body>
+
+</html>
